@@ -1,0 +1,25 @@
+Project Raphael
+
+Attendees: Ananya, Vighnesh, Anubhab, Jayanth.R
+
+Date: Thursday, 11th August 2016
+
+Start Time: 15:21
+
+End Time: 14:04
+
+Venue: Phone call
+
+Agenda: Project progress report (AI bot for FAQ)
+
+Discussion: A list of potential bot sites was given to Jayanth, and a basic idea of how we were planning on getting started was explained. Jayanth then suggested that we write pros and cons of each site and based on that decide upon one specific site and proceed, which was welcomed. The creation of the repository was duly mentioned. The meeting ended with a Jayanth telling us more about what he hoped out of this project.
+
+Action Items: 
+
+a)Anubhab and Ananya to make the list and finalise on the bot.
+
+b)Vighnesh to create a google doc of the project synopsis document.
+
+c)Next date for meeting was decided upon. (13th August 2016, Saturday at 1:15 pm)
+
+ 
