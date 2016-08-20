@@ -1,0 +1,25 @@
+Project Raphael
+
+Attendees: Ananya, Anubhab, Jayanth.R
+
+Date: Saturday, 13th August 2016
+
+Start Time: 18:33
+
+End Time: 19:04
+
+Venue: Phone call
+
+Agenda: Project progress report (AI bot for FAQ)
+
+Discussion: As instructed by Jayanth, the team had begun training the AI bot with some possible travel related FAQs. Anubhab and Ananya briefed Jayanth about the progress they had made in training the bot. They also explained as to why they decided to go for pandora bots over the other sites. At the end of this meeting, Jayanth asked for a demo of the bot for any one question.
+
+Action Items:
+
+a)Anubhab and Ananya to make the video demo of the bot.
+
+b)A set of questons was split among Ananya and Anubhab so as to train the bot further.
+
+c)Ananya looked up more places the bot could easily be deployed.
+
+d)Next date for meeting was decided upon. (15th August 2016, Monday at 1:15 pm)

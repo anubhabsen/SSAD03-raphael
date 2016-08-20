@@ -2,7 +2,7 @@ Project Raphael
 
 Attendees: Ananya, Vighnesh, Anubhab, Jayanth.R
 
-Date: Tuesday, 9th August 2016 
+Date: Tuesday, 9th August 2016
 
 Start Time: 16:36
 
@@ -12,10 +12,10 @@ Venue: Himalaya 102
 
 Agenda: Project briefing (AI bot for FAQ)
 
-Discussion: Discussed the coding background of all the members of the team and the basic background of the client. 
+Discussion: Discussed the coding background of all the members of the team and the basic background of the client.
 The application of the project was made clear. Anubhab suggested the use of javascript to which Jayanth agreed. Jayanth explained the business aspect of the project and the future for the same. Vighnesh asked for examples of already existing AI bots to inspire our project, to which Jayanth named a few that had impressed him. Ananya suggested that in case the bot was unable to answer the question asked by the user, the bot should display the list of top 5 frequently asked questions, which was agreed upon by Mr. Jayanth. The meeting ended on a high note with all grounds cleared.
 
-Action Items: 
+Action Items:
 
 a)Anubhab to create a repository in Bitbucket, and to give Jayanth ownership rights.
 
@@ -28,7 +28,3 @@ d)Vighnesh to create a project synopsis and assist in the coding.
 e)All team members to upload their respective resume.
 
 f)Next date for meeting was decided upon. (11 August 2016, Thursday at 1:15 pm)
-
-
-
- 

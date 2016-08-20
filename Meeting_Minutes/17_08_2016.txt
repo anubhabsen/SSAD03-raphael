@@ -2,7 +2,7 @@ Project Raphael
 
 Attendees: Vighnesh, Anubhab, Ananya, Jayanth.R
 
-Date: Wednesday, 17th August 2016 
+Date: Wednesday, 17th August 2016
 
 Start Time: 17:26
 
@@ -12,7 +12,7 @@ Venue: T-Hub
 
 Agenda: Project briefing (AI bot for FAQ)
 
-Discussion: Vighnesh took over from the last meeting, and briefed the team regarding the sophistication of wit.ai, but also explained about some errors that kept throwing up, while trying to enter questions into the bot. Anubhab further showed the list of top 10 travel sites, as well as some prospective clients, where our bot could be deployed. 
+Discussion: Vighnesh took over from the last meeting, and briefed the team regarding the sophistication of wit.ai, but also explained about some errors that kept throwing up, while trying to enter questions into the bot. Anubhab further showed the list of top 10 travel sites, as well as some prospective clients, where our bot could be deployed.
 Ananya suggested another prospective sector - Food; which he felt should be ranked higher than Education and Banking. Jayanth was impressed by the suggestion. Vighnesh and Anubhab also briefed Jayanth about a plan, which was advised by their senior, to go about with their project. Jayanth also spoke about his meeting with David Bergvinson, and asked for a working model in the next 3 - 4 weeks.
 
 Action Items:
