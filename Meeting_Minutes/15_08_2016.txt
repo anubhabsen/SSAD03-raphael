@@ -1,0 +1,26 @@
+Project Raphael
+
+Attendees: Vighnesh, Anubhab, Jayanth.R
+
+Date: Monday, 15th August 2016 
+
+Start Time: 13:21
+
+End Time: 14:09
+
+Venue: T-Hub
+
+Agenda: Project briefing (AI bot for FAQ)
+
+Discussion: Anubhab showed Jayanth a demo video that he had prepared on the working of the pandora bot, entering a few variations of the same question using AIML, and the having the bot display the same answer each time. Vighnesh suggested using an alternative bot which was smarter, like analysing the intent of the question, rather than a user entering the questions through brute force. 
+Vighnesh asked Jayanth regarding the prospective clients that the latter had in mind, to which Jayanth analysed and named a few, mainly in travel sector. Jayanth also named a few other sectors like Education, Banking etc., where this bot could be used too.
+
+Action Items:
+
+a)Anubhab to look up the top 10 travel sites, and also conduct some research on some local travel sites, which could be our prospective clients. 
+
+b)These data had to be also added to the google doc regarding the Project Synopsis.
+
+c)Vighnesh to look up more into wit.ai and explore the possibilities associated with it, as compared to pandora bots.
+
+d)Next date for meeting was decided upon. (17th August 2016, Wednesday at 5:15 pm)
