@@ -1,0 +1,19 @@
+{
+  "name": "pb-html",
+  "description": "Chat bot's interface with Node.js backend",
+  "env": {
+    "PANDORABOTS_APP_ID": {
+      "description": "app ID"
+    },
+    "PANDORABOTS_USER_KEY": {
+      "description": "User key"
+    },
+    "PANDORABOTS_BOTNAME": {
+      "description": "Bot Name"
+    },
+    "PANDORABOTS_URL": {
+      "description": "The fully qualified URL of the Pandorabots API",
+      "value": "https://aiaas.pandorabots.com"
+    }
+  }
+}
