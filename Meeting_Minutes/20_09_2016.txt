@@ -1,0 +1,28 @@
+Project Raphael
+
+Attendees: Vighnesh, Anubhab, Ananya, Jayanth.R
+
+Date: Tuesday, 20th September 2016
+
+Start Time: 17:14
+
+End Time: 17:20
+
+Venue: Palash Nivas D-109 (Call)
+
+Agenda: Project briefing (AI bot for FAQ)
+
+Discussion: Vighnesh commenced the meeting by mentioning the completion of the updated Project Concept, the Project Plan, the Software Requirements Specification, and the Status Tracker documents. Anubhab talked about the completion of the bare bones front end to deploy the bot once the training was over. The team discussed with Jayanth to choose a sector, whether Travel or Food delivery, and the decision was made to proceed with the latter. 
+
+Action Items:
+
+a) The team was asked to train the bot on the Food delivery sector.
+
+b) Jayanth also asked the team to look into Fitmeals (food delivery startup).
+
+c) The team decided to raise talks about payment for the bot deployment once the bot training was over.
+
+d) Further meetings/intimations was planned to be done via WhatsApp.
+
+
+
