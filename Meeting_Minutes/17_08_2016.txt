@@ -17,7 +17,7 @@ Ananya suggested another prospective sector - Food; which he felt should be rank
 
 Action Items:
 
-a)Vighnesh asked to research more about wit.ai and reach a conslusion whether to zero in on wit.ai or go back to using pandora bots.
+a)Vighnesh asked to research more about wit.ai and reach a conclusion whether to zero in on wit.ai or go back to using pandora bots.
 
 b)Anubhab and Ananya asked to get the front end of a sample webpage ready, where the bot could be deployed.
 
