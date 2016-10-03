@@ -1,0 +1,25 @@
+Project Raphael
+
+Attendees: Vighnesh, Anubhab, Ananya, Jayanth.R
+
+Date: Thursday, 29th September 2016
+
+Start Time: 17:14
+
+End Time: 17:36
+
+Venue: T-Hub
+
+Agenda: Project briefing (AI bot for FAQ)
+
+Description: Jayanth asked the team about the progress they had been making over time. Anubhab showed the front end he had built to deploy the bot, leaving Jayanth impressed. Ananya then talked about the questions he had prepared, generic to the food delivery sector, with which the bot would be trained. Vighnesh then talked about the team's plan of action for R1, for which Jayanth added some suggestions.
+
+Action Items:
+
+a) Vighnesh and Anubhab to prepare the slides for the R1 presentation.
+
+b) The team to train the bot with the questions prepared by Ananya, along with some questions for casual conversation.
+
+c) Vighnesh to update the documentation required for the project.
+
+d) Anubhab to integrate the bot, once trained, with the UI.
