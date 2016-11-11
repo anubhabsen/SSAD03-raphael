@@ -22,6 +22,7 @@
     "eslint": "^3.2.2",
     "express": "^4.13.4",
     "jade": "^1.11.0",
+    "jstransformer": "^1.0.0",
     "pb-node": "^2.0.1",
     "pug": "^2.0.0-beta6"
   },

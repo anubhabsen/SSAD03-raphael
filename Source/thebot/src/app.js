@@ -17,7 +17,7 @@ app.get('/', function(req, res) {
 
 app.post('/', function(req, res, next) {
   const postData = { input: req.body.input };
-
+  console.log(`${postData.input}`)
   if (req.body.clientName) {
     postData.client_name = req.body.clientName;
     bot.talk(postData, botResponseHandler);
