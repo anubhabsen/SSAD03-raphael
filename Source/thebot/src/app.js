@@ -1,6 +1,9 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const bot = require('./bot');
+var levelup = require('levelup');
+var db = levelup('./reqdb');
+var time = require('time');
 
 const app = express();
 
@@ -17,7 +20,10 @@ app.get('/', function(req, res) {
 
 app.post('/', function(req, res, next) {
   const postData = { input: req.body.input };
-  console.log(`${postData.input}`)
+  timeNow = time.time().toString();
+  db.put(timeNow, postData.input, function (err) {
+    if (err) return console.log('Ooops!', err)
+  })
   if (req.body.clientName) {
     postData.client_name = req.body.clientName;
     bot.talk(postData, botResponseHandler);
