@@ -8,3 +8,7 @@ node_modules
 
 #npm cache
 .npm
+
+#database
+Source/thebot/src/reqdb
+Source/thebot/src/emaildb
