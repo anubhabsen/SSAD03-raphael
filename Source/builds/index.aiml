@@ -1,0 +1,474 @@
+<aiml version="2.0">
+
+<category><pattern>HOW LONG DOES IT TAKE TO PROCESS THE REFUND</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+
+
+        
+<category><pattern>HOW LONG DOES IT TALK TO PROCESS THE REFUND</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+
+
+        
+<category><pattern>HOW LONG DOES IT TALK TO PROCESS THE REFUND</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+
+
+        
+<category><pattern>WHEN DO I GET THE REFUND</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+
+
+        
+<category><pattern>WHEN DO I GET CASH</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+
+
+
+<category><pattern>WHEN DO I GET MY CASH</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+
+
+<category><pattern>_ WHEN _ CASH _</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+<category><pattern>_ WHEN _ CASH</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+<category><pattern>WHEN _ CASH _</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+<category><pattern>WHEN _ CASH</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+
+
+<category><pattern>_ WHEN _ REFUND _</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+<category><pattern>_ WHEN _ REFUND</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+<category><pattern>WHEN _ REFUND _</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+<category><pattern>WHEN _ REFUND</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+
+<category><pattern>_ HOW _ REFUND _</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+<category><pattern>_ HOW _ REFUND</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+<category><pattern>HOW _ REFUND _</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+<category><pattern>HOW _ REFUND</pattern><template>If for any reason you are due a refund, the money will be credited back to you within 3-5 working days from the processing date.</template></category>
+
+
+<category><pattern>_ COUPON _</pattern><template>Please check the Terms and Conditions of the coupon and everything seems fine and if you are unable to use coupon mail us from your registered email id.</template></category>
+<category><pattern>_ COUPON</pattern><template>Please check the Terms and Conditions of the coupon and everything seems fine and if you are unable to use coupon mail us from your registered email id.</template></category>
+<category><pattern>COUPON _</pattern><template>Please check the Terms and Conditions of the coupon and everything seems fine and if you are unable to use coupon mail us from your registered email id.</template></category>
+
+
+        
+<category><pattern>HOW CAN I TRACK MY ORDER</pattern><template>If you are using mobile app, you can live track your order on a map built into the 'orders' menu. We will also keep you posted through SMS with delivery boy details. If you are using our website, live tracking is not yet available but the details of the progress of your order will be shared with you through SMS, along every step between order placement to delivery.</template></category>
+
+
+        
+<category><pattern>I AM UNABLE TO USE MY COUPON CODE PLEASE HELP</pattern><template>Please check the Terms and Conditions of the coupon and everything seems fine and if you are unable to use coupon mail us from your registered email id.</template></category>
+
+
+        
+<category><pattern>I AM NOT ABLE TO USE MY COUPON CODE</pattern><template>Please check the Terms and Conditions of the coupon and everything seems fine and if you are unable to use coupon mail us from your registered email id.</template></category>
+
+
+        
+<category><pattern>I AM UNABLE TO USE MY COUPON</pattern><template>Please check the Terms and Conditions of the coupon and everything seems fine and if you are unable to use coupon mail us from your registered email id.</template></category>
+
+
+        
+<category><pattern>I AM NOT ABLE TO USE MY COUPON</pattern><template>Please check the Terms and Conditions of the coupon and everything seems fine and if you are unable to use coupon mail us from your registered email id.</template></category>
+
+
+        
+<category><pattern>HOW DO I USE MY COUPON</pattern><template>Please check the Terms and Conditions of the coupon and everything seems fine and if you are unable to use coupon mail us from your registered email id.</template></category>
+
+
+        
+<category><pattern>HOW DO I USE MY COUPONS</pattern><template>Please check the Terms and Conditions of the coupon and everything seems fine and if you are unable to use coupon mail us from your registered email id.</template></category>
+
+
+
+<category><pattern>WHAT ARE YOUR PAYMENT METHODS</pattern><template>We accept cash on delivery and online payments for now. We are working on other payment methods to make online food ordering as convenient as possible.</template></category>
+<category><pattern>HOW CAN I PAY</pattern><template>We accept cash on delivery and online payments for now. We are working on other payment methods to make online food ordering as convenient as possible.</template></category>
+<category><pattern>_ PAY _</pattern><template>We accept cash on delivery and online payments for now. We are working on other payment methods to make online food ordering as convenient as possible.</template></category>
+<category><pattern>PAY _</pattern><template>We accept cash on delivery and online payments for now. We are working on other payment methods to make online food ordering as convenient as possible.</template></category>   
+<category><pattern></pattern><template>We accept cash on delivery and online payments for now. We are working on other payment methods to make online food ordering as convenient as possible.</template></category>
+
+
+<category><pattern>_ ORDER _ PHONE _</pattern><template>All orders are to be placed through the website or app only.</template></category>
+<category><pattern>ORDER _ PHONE _</pattern><template>All orders are to be placed through the website or app only.</template></category>
+<category><pattern>_ PHONE _ ORDER _</pattern><template>All orders are to be placed through the website or app only.</template></category>
+
+
+<category><pattern>_ SODEXO _</pattern><template>Sorry we do not accept any meal voucher. Payments can be made only through the methods listed in our payment gateway, including cash on delivery.</template></category>
+<category><pattern>SODEXO _</pattern><template>Sorry we do not accept any meal voucher. Payments can be made only through the methods listed in our payment gateway, including cash on delivery.</template></category>
+<category><pattern>_ SODEXO</pattern><template>Sorry we do not accept any meal voucher. Payments can be made only through the methods listed in our payment gateway, including cash on delivery.</template></category>
+
+
+<category><pattern>_ DELIVER _</pattern><template>Our delivery hours are subjected to the rules of your city and the timings of each restaurant.</template></category>
+<category><pattern>DELIVER _</pattern><template>Our delivery hours are subjected to the rules of your city and the timings of each restaurant.</template></category>
+<category><pattern>_ DELIVERY _</pattern><template>Our delivery hours are subjected to the rules of your city and the timings of each restaurant.</template></category>
+<category><pattern>DELIVERY _</pattern><template>Our delivery hours are subjected to the rules of your city and the timings of each restaurant.</template></category>
+<category><pattern>_ DELIVER</pattern><template>Our delivery hours are subjected to the rules of your city and the timings of each restaurant.</template></category>    
+
+
+<!-- Vighnesh, 09 - 11 - 2016, FitMeals -->
+
+
+<category><pattern>_ BODY _ BUILDER _</pattern><template>Yes, FitMeals can partner with Personal Trainers to provide the perfect workout-meal combination.
+</template></category>
+<category><pattern>_ BODY _ BUILDER</pattern><template>Yes, FitMeals can partner with Personal Trainers to provide the perfect workout-meal combination.
+</template></category>
+<category><pattern>BODY _ BUILDER _</pattern><template>Yes, FitMeals can partner with Personal Trainers to provide the perfect workout-meal combination.
+</template></category>
+<category><pattern>BODY _ BUILDER</pattern><template>Yes, FitMeals can partner with Personal Trainers to provide the perfect workout-meal combination.
+</template></category>
+
+
+<category><pattern>_ GYM _</pattern><template>Yes, FitMeals can partner with Personal Trainers to provide the perfect workout-meal combination.
+</template></category>
+<category><pattern>_ GYM</pattern><template>Yes, FitMeals can partner with Personal Trainers to provide the perfect workout-meal combination.
+</template></category>
+<category><pattern>GYM _</pattern><template>Yes, FitMeals can partner with Personal Trainers to provide the perfect workout-meal combination.
+</template></category>
+
+
+<category><pattern>_ TRAINER _</pattern><template>Yes, FitMeals can partner with Personal Trainers to provide the perfect workout-meal combination.
+</template></category>
+<category><pattern>_ TRAINER</pattern><template>Yes, FitMeals can partner with Personal Trainers to provide the perfect workout-meal combination.
+</template></category>
+<category><pattern>TRAINER _</pattern><template>Yes, FitMeals can partner with Personal Trainers to provide the perfect workout-meal combination.
+</template></category>
+
+
+<category><pattern>_ ADDITIONAL _ BENEFITS _</pattern><template>In addition to tasty but healthy food, the customers can also save time and money which they spend on weekly grocery shopping.
+</template></category>
+<category><pattern>_ ADDITIONAL _ BENEFITS</pattern><template>In addition to tasty but healthy food, the customers can also save time and money which they spend on weekly grocery shopping.
+</template></category>
+<category><pattern>ADDITIONAL _ BENEFITS _</pattern><template>In addition to tasty but healthy food, the customers can also save time and money which they spend on weekly grocery shopping.
+</template></category>
+<category><pattern>ADDITIONAL _ BENEFITS</pattern><template>In addition to tasty but healthy food, the customers can also save time and money which they spend on weekly grocery shopping.
+</template></category>
+
+
+<category><pattern>_ MORE _ BENEFITS _</pattern><template>In addition to tasty but healthy food, the customers can also save time and money which they spend on weekly grocery shopping.
+</template></category>
+<category><pattern>_ MORE _ BENEFITS</pattern><template>In addition to tasty but healthy food, the customers can also save time and money which they spend on weekly grocery shopping.
+</template></category>
+<category><pattern>MORE _ BENEFITS _</pattern><template>In addition to tasty but healthy food, the customers can also save time and money which they spend on weekly grocery shopping.
+</template></category>
+<category><pattern>MORE _ BENEFITS</pattern><template>In addition to tasty but healthy food, the customers can also save time and money which they spend on weekly grocery shopping.
+</template></category>
+
+
+<category><pattern>_ OTHER _ BENEFITS _</pattern><template>In addition to tasty but healthy food, the customers can also save time and money which they spend on weekly grocery shopping.
+</template></category>
+<category><pattern>_ OTHER _ BENEFITS</pattern><template>In addition to tasty but healthy food, the customers can also save time and money which they spend on weekly grocery shopping.
+</template></category>
+<category><pattern>OTHER _ BENEFITS _</pattern><template>In addition to tasty but healthy food, the customers can also save time and money which they spend on weekly grocery shopping.
+</template></category>
+<category><pattern>OTHER _ BENEFITS</pattern><template>In addition to tasty but healthy food, the customers can also save time and money which they spend on weekly grocery shopping.
+</template></category>
+
+
+<category>_ AREA _ DELIVER _<pattern></pattern><template>FitMeals currently delivers actively all over Hyderabad and Secunderabad.
+</template></category>
+<category>_ AREA _ DELIVER<pattern></pattern><template>FitMeals currently delivers actively all over Hyderabad and Secunderabad.
+</template></category>
+<category>AREA _ DELIVER _<pattern></pattern><template>FitMeals currently delivers actively all over Hyderabad and Secunderabad.
+</template></category>
+<category>AREA _ DELIVER<pattern></pattern><template>FitMeals currently delivers actively all over Hyderabad and Secunderabad.
+</template></category>
+
+
+<category>_ WHERE _ DELIVER _<pattern></pattern><template>FitMeals currently delivers actively all over Hyderabad and Secunderabad.
+</template></category>
+<category>_ WHERE _ DELIVER<pattern></pattern><template>FitMeals currently delivers actively all over Hyderabad and Secunderabad.
+</template></category>
+<category>WHERE _ DELIVER _<pattern></pattern><template>FitMeals currently delivers actively all over Hyderabad and Secunderabad.
+</template></category>
+<category>WHERE _ DELIVER<pattern></pattern><template>FitMeals currently delivers actively all over Hyderabad and Secunderabad.
+</template></category>
+
+
+<category><pattern>_ REFUND _</pattern><template>Once payments are received, no return/refund can be entertained. However, due to an error, if your order is cancelled, then a full refund will be given.
+</template></category>
+<category><pattern>_ REFUND</pattern><template>Once payments are received, no return/refund can be entertained. However, due to an error, if your order is cancelled, then a full refund will be given.
+</template></category>
+<category><pattern>REFUND _</pattern><template>Once payments are received, no return/refund can be entertained. However, due to an error, if your order is cancelled, then a full refund will be given.
+</template></category>
+
+
+<category>_ MONEY _ BACK _<pattern></pattern><template>Once payments are received, no return/refund can be entertained. However, due to an error, if your order is cancelled, then a full refund will be given.
+</template></category>
+<category>_ MONEY _ BACKR<pattern></pattern><template>Once payments are received, no return/refund can be entertained. However, due to an error, if your order is cancelled, then a full refund will be given.
+</template></category>
+<category>MONEY _ BACK _<pattern></pattern><template>Once payments are received, no return/refund can be entertained. However, due to an error, if your order is cancelled, then a full refund will be given.
+</template></category>
+<category>MONEY _ BACK<pattern></pattern><template>Once payments are received, no return/refund can be entertained. However, due to an error, if your order is cancelled, then a full refund will be given.
+</template></category>
+
+
+<category><pattern>_ AGE _ LIMIT _</pattern><template>Yes, the customer must be of age 18 and above. Minor shopping is not allowed.
+</template></category>
+<category><pattern>_ AGE _ LIMIT</pattern><template>Yes, the customer must be of age 18 and above. Minor shopping is not allowed.
+</template></category>
+<category><pattern>AGE _ LIMIT _</pattern><template>Yes, the customer must be of age 18 and above. Minor shopping is not allowed.
+</template></category>
+<category><pattern>AGE _ LIMIT</pattern><template>Yes, the customer must be of age 18 and above. Minor shopping is not allowed.
+</template></category>
+
+
+<category><pattern>_ MINIMUM _ AGE _</pattern><template>Yes, the customer must be of age 18 and above. Minor shopping is not allowed.
+</template></category>
+<category><pattern>_ MINIMUM _ AGE</pattern><template>Yes, the customer must be of age 18 and above. Minor shopping is not allowed.
+</template></category>
+<category><pattern>MINIMUM _ AGE _</pattern><template>Yes, the customer must be of age 18 and above. Minor shopping is not allowed.
+</template></category>
+<category><pattern>MINIMUM _ AGE</pattern><template>Yes, the customer must be of age 18 and above. Minor shopping is not allowed.
+</template></category>
+
+
+<category><pattern>_ PAYMENT _</pattern><template>FitMeals accepts payment through cheque/draft, net-banking, credit card, debit card, cash card, mobile payments as well as Cash on Delivery (COD).
+</template></category>
+<category><pattern>_ PAYMENT</pattern><template>FitMeals accepts payment through cheque/draft, net-banking, credit card, debit card, cash card, mobile payments as well as Cash on Delivery (COD).
+</template></category>
+<category><pattern>PAYMENT _</pattern><template>FitMeals accepts payment through cheque/draft, net-banking, credit card, debit card, cash card, mobile payments as well as Cash on Delivery (COD).
+</template></category>
+
+
+<category><pattern>_ HOW _ PAY _</pattern><template>FitMeals accepts payment through cheque/draft, net-banking, credit card, debit card, cash card, mobile payments as well as Cash on Delivery (COD).
+</template></category>
+<category><pattern>_ HOW _ PAY</pattern><template>FitMeals accepts payment through cheque/draft, net-banking, credit card, debit card, cash card, mobile payments as well as Cash on Delivery (COD).
+</template></category>
+<category><pattern>HOW _ PAY _</pattern><template>FitMeals accepts payment through cheque/draft, net-banking, credit card, debit card, cash card, mobile payments as well as Cash on Delivery (COD).
+</template></category>
+<category><pattern>HOW _ PAY</pattern><template>FitMeals accepts payment through cheque/draft, net-banking, credit card, debit card, cash card, mobile payments as well as Cash on Delivery (COD).
+</template></category>
+
+
+<category><pattern>_ PRIVACY _</pattern><template>FitMeals is committed to safeguarding the customer's privacy using the best security standards and procedures known and applicable privacy laws have been complied with. 
+</template></category>
+<category><pattern>_ PRIVACY</pattern><template>FitMeals is committed to safeguarding the customer's privacy using the best security standards and procedures known and applicable privacy laws have been complied with. 
+</template></category>
+<category><pattern>PRIVACY _</pattern><template>FitMeals is committed to safeguarding the customer's privacy using the best security standards and procedures known and applicable privacy laws have been complied with. 
+</template></category>
+
+
+<category><pattern>_ DATA _ SAFE _</pattern><template>FitMeals is committed to safeguarding the customer's privacy using the best security standards and procedures known and applicable privacy laws have been complied with. 
+</template></category>
+<category><pattern>_ DATA _ SAFE</pattern><template>FitMeals is committed to safeguarding the customer's privacy using the best security standards and procedures known and applicable privacy laws have been complied with. 
+</template></category>
+<category><pattern>DATA _ SAFE _</pattern><template>FitMeals is committed to safeguarding the customer's privacy using the best security standards and procedures known and applicable privacy laws have been complied with. 
+</template></category>
+<category><pattern>DATA _ SAFE</pattern><template>FitMeals is committed to safeguarding the customer's privacy using the best security standards and procedures known and applicable privacy laws have been complied with. 
+</template></category>
+
+
+<category><pattern>_ CONTACT _</pattern><template>FitMeals is based in Banjara Hills, and can be contacted either by phone or by email. 
+<br/>Phone : 9100347480
+<br/>Email : info@fitmealsindia.co.in
+</template></category>
+<category><pattern>_ CONTACT</pattern><template>FitMeals is based in Banjara Hills, and can be contacted either by phone or by email. 
+<br/>Phone : 9100347480
+<br/>Email : info@fitmealsindia.co.in
+</template></category>
+<category><pattern>CONTACT _</pattern><template>FitMeals is based in Banjara Hills, and can be contacted either by phone or by email. 
+<br/>Phone : 9100347480
+<br/>Email : info@fitmealsindia.co.in
+</template></category>
+
+
+<category><pattern>_ REACH _ YOU _</pattern><template>FitMeals is based in Banjara Hills, and can be contacted either by phone or by email. 
+<br/>Phone : 9100347480
+<br/>Email : info@fitmealsindia.co.in
+</template></category>
+<category><pattern>_ REACH _ YOU</pattern><template>FitMeals is based in Banjara Hills, and can be contacted either by phone or by email. 
+<br/>Phone : 9100347480
+<br/>Email : info@fitmealsindia.co.in
+</template></category>
+<category><pattern>REACH _ YOU _</pattern><template>FitMeals is based in Banjara Hills, and can be contacted either by phone or by email. 
+<br/>Phone : 9100347480
+<br/>Email : info@fitmealsindia.co.in
+</template></category>
+<category><pattern>REACH _ YOU</pattern><template>FitMeals is based in Banjara Hills, and can be contacted either by phone or by email. 
+<br/>Phone : 9100347480
+<br/>Email : info@fitmealsindia.co.in
+</template></category>
+
+
+<category><pattern>_ WHAT _ PHONE _ NUMBER _</pattern><template>FitMeals is based in Banjara Hills, and can be contacted either by phone or by email. 
+<br/>Phone : 9100347480
+<br/>Email : info@fitmealsindia.co.in
+</template></category>
+<category><pattern>_ WHAT _ PHONE _ NUMBER</pattern><template>FitMeals is based in Banjara Hills, and can be contacted either by phone or by email. 
+<br/>Phone : 9100347480
+<br/>Email : info@fitmealsindia.co.in
+</template></category>
+<category><pattern>WHAT _ PHONE _ NUMBER _</pattern><template>FitMeals is based in Banjara Hills, and can be contacted either by phone or by email. 
+<br/>Phone : 9100347480
+<br/>Email : info@fitmealsindia.co.in
+</template></category>
+<category><pattern>WHAT _ PHONE _ NUMBER</pattern><template>FitMeals is based in Banjara Hills, and can be contacted either by phone or by email. 
+<br/>Phone : 9100347480
+<br/>Email : info@fitmealsindia.co.in
+</template></category>
+
+
+<category><pattern>_ CUSTOMISED _ DIET _ PLAN _</pattern><template>The Customised Diet Plan provides a customised diet plan as per the specific requirements of the customer.
+</template></category>
+<category><pattern>_ CUSTOMISED _ DIET _ PLAN</pattern><template>The Customised Diet Plan provides a customised diet plan as per the specific requirements of the customer.
+</template></category>
+<category><pattern>CUSTOMISED _ DIET _ PLAN _</pattern><template>The Customised Diet Plan provides a customised diet plan as per the specific requirements of the customer.
+</template></category>
+<category><pattern>CUSTOMISED _ DIET _ PLAN</pattern><template>The Customised Diet Plan provides a customised diet plan as per the specific requirements of the customer.
+</template></category>
+
+
+<category><pattern>_ OWN _ DIET _</pattern><template>The Customised Diet Plan provides a customised diet plan as per the specific requirements of the customer.
+</template></category>
+<category><pattern>_ OWN _ DIET</pattern><template>The Customised Diet Plan provides a customised diet plan as per the specific requirements of the customer.
+</template></category>
+<category><pattern>OWN _ DIET _</pattern><template>The Customised Diet Plan provides a customised diet plan as per the specific requirements of the customer.
+</template></category>
+<category><pattern>OWN _ DIET</pattern><template>The Customised Diet Plan provides a customised diet plan as per the specific requirements of the customer.
+</template></category>
+
+
+<category><pattern>_ BALANCED _ DIET _ PLAN _</pattern><template>The Balanced Diet Plan is specifically for weight management. It has a little bit of everything, and the perfect amount of portion control to feed the metabolism in the right way. 
+</template></category>
+<category><pattern>_ BALANCED _ DIET _ PLAN</pattern><template>The Balanced Diet Plan is specifically for weight management. It has a little bit of everything, and the perfect amount of portion control to feed the metabolism in the right way. 
+</template></category>
+<category><pattern>BALANCED _ DIET _ PLAN _</pattern><template>The Balanced Diet Plan is specifically for weight management. It has a little bit of everything, and the perfect amount of portion control to feed the metabolism in the right way. 
+</template></category>
+<category><pattern>BALANCED _ DIET _ PLAN</pattern><template>The Balanced Diet Plan is specifically for weight management. It has a little bit of everything, and the perfect amount of portion control to feed the metabolism in the right way. 
+</template></category>
+
+
+<category><pattern>_ BASIC _ DIET _ PLAN _</pattern><template>The Basic Diet Plan is for weight loss. It has been carefully designed by FitMeals' team of culinary experts to keep the taste-buds happy and waistline small. 
+</template></category>
+<category><pattern>_ BASIC _ DIET _ PLAN</pattern><template>The Basic Diet Plan is for weight loss. It has been carefully designed by FitMeals' team of culinary experts to keep the taste-buds happy and waistline small. 
+</template></category>
+<category><pattern>BASIC _ DIET _ PLAN _</pattern><template>The Basic Diet Plan is for weight loss. It has been carefully designed by FitMeals' team of culinary experts to keep the taste-buds happy and waistline small. 
+</template></category>
+<category><pattern>BASIC _ DIET _ PLAN</pattern><template>The Basic Diet Plan is for weight loss. It has been carefully designed by FitMeals' team of culinary experts to keep the taste-buds happy and waistline small. 
+</template></category>
+
+
+<category><pattern>_ WEIGHT _ LOSS _ DIET _</pattern><template>The Basic Diet Plan is for weight loss. It has been carefully designed by FitMeals' team of culinary experts to keep the taste-buds happy and waistline small. 
+</template></category>
+<category><pattern>_ WEIGHT _ LOSS _ DIET</pattern><template>The Basic Diet Plan is for weight loss. It has been carefully designed by FitMeals' team of culinary experts to keep the taste-buds happy and waistline small. 
+</template></category>
+<category><pattern>WEIGHT _ LOSS _ DIET _</pattern><template>The Basic Diet Plan is for weight loss. It has been carefully designed by FitMeals' team of culinary experts to keep the taste-buds happy and waistline small. 
+</template></category>
+<category><pattern>WEIGHT _ LOSS _ DIET</pattern><template>The Basic Diet Plan is for weight loss. It has been carefully designed by FitMeals' team of culinary experts to keep the taste-buds happy and waistline small. 
+</template></category>
+
+
+<category><pattern>_ LOSE _ WEIGHT _</pattern><template>The Basic Diet Plan is for weight loss. It has been carefully designed by FitMeals' team of culinary experts to keep the taste-buds happy and waistline small. 
+</template></category>
+<category><pattern>_ LOSE _ WEIGHT</pattern><template>The Basic Diet Plan is for weight loss. It has been carefully designed by FitMeals' team of culinary experts to keep the taste-buds happy and waistline small. 
+</template></category>
+<category><pattern>LOSE _ WEIGHT _</pattern><template>The Basic Diet Plan is for weight loss. It has been carefully designed by FitMeals' team of culinary experts to keep the taste-buds happy and waistline small. 
+</template></category>
+<category><pattern>LOSE _ WEIGHT</pattern><template>The Basic Diet Plan is for weight loss. It has been carefully designed by FitMeals' team of culinary experts to keep the taste-buds happy and waistline small. 
+</template></category>
+
+
+<category><pattern>_ ATHLETIC _ DIET _ PLAN _</pattern><template>The Athletic Diet Plan is for anyone looking to gain muscle. The meals include extra protein to assist in retaining and growing muscle.
+</template></category>
+<category><pattern>_ ATHLETIC _ DIET _ PLAN</pattern><template>The Athletic Diet Plan is for anyone looking to gain muscle. The meals include extra protein to assist in retaining and growing muscle.
+</template></category>
+<category><pattern>ATHLETIC _ DIET _ PLAN _</pattern><template>The Athletic Diet Plan is for anyone looking to gain muscle. The meals include extra protein to assist in retaining and growing muscle.
+</template></category>
+<category><pattern>ATHLETIC _ DIET _ PLAN</pattern><template>The Athletic Diet Plan is for anyone looking to gain muscle. The meals include extra protein to assist in retaining and growing muscle.
+</template></category>
+
+
+<category><pattern>_ WEIGHT _ GAIN _ DIET _</pattern><template>The Athletic Diet Plan is for anyone looking to gain muscle. The meals include extra protein to assist in retaining and growing muscle.
+</template></category>
+<category><pattern>_ WEIGHT _ GAIN _ DIET</pattern><template>The Athletic Diet Plan is for anyone looking to gain muscle. The meals include extra protein to assist in retaining and growing muscle.
+</template></category>
+<category><pattern>WEIGHT _ GAIN _ DIET _</pattern><template>The Athletic Diet Plan is for anyone looking to gain muscle. The meals include extra protein to assist in retaining and growing muscle.
+</template></category>
+<category><pattern>WEIGHT _ GAIN _ DIET</pattern><template>The Athletic Diet Plan is for anyone looking to gain muscle. The meals include extra protein to assist in retaining and growing muscle.
+</template></category>
+
+
+<category><pattern>_ GAIN _ WEIGHT _</pattern><template>The Athletic Diet Plan is for anyone looking to gain muscle. The meals include extra protein to assist in retaining and growing muscle.
+</template></category>
+<category><pattern>_ GAIN _ WEIGHT</pattern><template>The Athletic Diet Plan is for anyone looking to gain muscle. The meals include extra protein to assist in retaining and growing muscle.
+</template></category>
+<category><pattern>GAIN _ WEIGHT _</pattern><template>The Athletic Diet Plan is for anyone looking to gain muscle. The meals include extra protein to assist in retaining and growing muscle.
+</template></category>
+<category><pattern>GAIN _ WEIGHT</pattern><template>The Athletic Diet Plan is for anyone looking to gain muscle. The meals include extra protein to assist in retaining and growing muscle.
+</template></category>
+
+
+<category><pattern>_ PUT _ ON _ WEIGHT _</pattern><template>The Athletic Diet Plan is for anyone looking to gain muscle. The meals include extra protein to assist in retaining and growing muscle.
+</template></category>
+<category><pattern>_ PUT _ ON _ WEIGHT</pattern><template>The Athletic Diet Plan is for anyone looking to gain muscle. The meals include extra protein to assist in retaining and growing muscle.
+</template></category>
+<category><pattern>PUT _ ON _ WEIGHT _</pattern><template>The Athletic Diet Plan is for anyone looking to gain muscle. The meals include extra protein to assist in retaining and growing muscle.
+</template></category>
+<category><pattern>PUT _ ON _ WEIGHT</pattern><template>The Athletic Diet Plan is for anyone looking to gain muscle. The meals include extra protein to assist in retaining and growing muscle.
+</template></category>
+
+
+<category><pattern>_ IDEA _ FITMEALS _</pattern><template>FitMeals is a subscription based service where the most exotic ingredients are used to integrate superfoods, and cook up the most delicious meals to keep your tastebuds happy, and your waistline small.
+</template></category>
+<category><pattern>_ IDEA _ FITMEALS</pattern><template>FitMeals is a subscription based service where the most exotic ingredients are used to integrate superfoods, and cook up the most delicious meals to keep your tastebuds happy, and your waistline small.
+</template></category>
+<category><pattern>IDEA _ FITMEALS _</pattern><template>FitMeals is a subscription based service where the most exotic ingredients are used to integrate superfoods, and cook up the most delicious meals to keep your tastebuds happy, and your waistline small.
+</template></category>
+<category><pattern>IDEA _ FITMEALS</pattern><template>FitMeals is a subscription based service where the most exotic ingredients are used to integrate superfoods, and cook up the most delicious meals to keep your tastebuds happy, and your waistline small.
+</template></category>
+
+
+<category><pattern>_ CALORIE _ LIMIT _</pattern><template>Every meal has upto a maximum of 450 calories.
+</template></category>
+<category><pattern>_ CALORIE _ LIMIT</pattern><template>Every meal has upto a maximum of 450 calories.
+</template></category>
+<category><pattern>CALORIE _ LIMIT _</pattern><template>Every meal has upto a maximum of 450 calories.
+</template></category>
+<category><pattern>CALORIE _ LIMIT</pattern><template>Every meal has upto a maximum of 450 calories.
+</template></category>
+
+
+<category><pattern>_ MAXIMUM _ CALORIE _</pattern><template>Every meal has upto a maximum of 450 calories.
+</template></category>
+<category><pattern>_ MAXIMUM _ CALORIE _</pattern><template>Every meal has upto a maximum of 450 calories.
+</template></category>
+<category><pattern>_ MAXIMUM _ CALORIE _</pattern><template>Every meal has upto a maximum of 450 calories.
+</template></category>
+<category><pattern>_ MAXIMUM _ CALORIE _</pattern><template>Every meal has upto a maximum of 450 calories.
+</template></category>
+
+
+<category><pattern>_ HOW _ MANY _ CALORIE _</pattern><template>Every meal has upto a maximum of 450 calories.
+</template></category>
+<category><pattern>_ HOW _ MANY _ CALORIE _</pattern><template>Every meal has upto a maximum of 450 calories.
+</template></category>
+<category><pattern>_ HOW _ MANY _ CALORIE _</pattern><template>Every meal has upto a maximum of 450 calories.
+</template></category>
+<category><pattern>_ HOW _ MANY _ CALORIE _</pattern><template>Every meal has upto a maximum of 450 calories.
+</template></category>
+
+
+<category><pattern>_ WHAT _ DIET _ PLAN _</pattern><template>FitMeals has 3 main plans: Athletic Diet, Basic Diet, Balanced Diet, Customised
+</template></category>
+<category><pattern>_ WHAT _ DIET _ PLAN _</pattern><template>FitMeals has 3 main plans: Athletic Diet, Basic Diet, Balanced Diet, Customised
+</template></category>
+<category><pattern>_ WHAT _ DIET _ PLAN _</pattern><template>FitMeals has 3 main plans: Athletic Diet, Basic Diet, Balanced Diet, Customised
+</template></category>
+<category><pattern>_ WHAT _ DIET _ PLAN _</pattern><template>FitMeals has 3 main plans: Athletic Diet, Basic Diet, Balanced Diet, Customised
+</template></category>
+
+
+<category><pattern>_ WHICH _ DIET _ PLAN _</pattern><template>FitMeals has 3 main plans: Athletic Diet, Basic Diet, Balanced Diet, Customised
+</template></category>
+<category><pattern>_ WHICH _ DIET _ PLAN _</pattern><template>FitMeals has 3 main plans: Athletic Diet, Basic Diet, Balanced Diet, Customised
+</template></category>
+<category><pattern>_ WHICH _ DIET _ PLAN _</pattern><template>FitMeals has 3 main plans: Athletic Diet, Basic Diet, Balanced Diet, Customised
+</template></category>
+<category><pattern>_ WHICH _ DIET _ PLAN _</pattern><template>FitMeals has 3 main plans: Athletic Diet, Basic Diet, Balanced Diet, Customised
+</template></category>
+
+
+<category><pattern>_ DIFFERENT _ DIET _ PLAN _</pattern><template>FitMeals has 3 main plans: Athletic Diet, Basic Diet, Balanced Diet, Customised
+</template></category>
+<category><pattern>_ DIFFERENT _ DIET _ PLAN _</pattern><template>FitMeals has 3 main plans: Athletic Diet, Basic Diet, Balanced Diet, Customised
+</template></category>
+<category><pattern>_ DIFFERENT _ DIET _ PLAN _</pattern><template>FitMeals has 3 main plans: Athletic Diet, Basic Diet, Balanced Diet, Customised
+</template></category>
+<category><pattern>_ DIFFERENT _ DIET _ PLAN _</pattern><template>FitMeals has 3 main plans: Athletic Diet, Basic Diet, Balanced Diet, Customised
+</template></category>
+
+    
+</aiml>
